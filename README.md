@@ -4,4 +4,4 @@ Its a creative technique using CSS and JavaScript to create a navigator. It can 
 
 ## Demo
 
-Click on  : [harshitgaur.me/glassmorphism](url)
+Click on  : [harshitgaur.me/glassmorphism](https://harshitgaur.me/glassmorphism)
